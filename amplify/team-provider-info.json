@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pingo-dev-183313-authRole",
+      "UnauthRoleArn": "arn:aws:iam::144375975648:role/amplify-pingo-dev-183313-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::144375975648:role/amplify-pingo-dev-183313-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-pingo-dev-183313-deployment",
+      "UnauthRoleName": "amplify-pingo-dev-183313-unauthRole",
+      "StackName": "amplify-pingo-dev-183313",
+      "StackId": "arn:aws:cloudformation:eu-west-1:144375975648:stack/amplify-pingo-dev-183313/41b6abd0-792a-11eb-9745-06d6310083df",
+      "AmplifyAppId": "d3hg5yyhm6o940"
+    },
+    "categories": {
+      "auth": {
+        "pingod605a04f": {}
+      }
+    }
+  }
+}
